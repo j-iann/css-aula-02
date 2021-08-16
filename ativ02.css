@@ -1,0 +1,9 @@
+.elementos {
+	color: purple;
+}
+p, ul {
+	font-size: 90px;
+}
+#titulo {
+	text-align:center;
+}

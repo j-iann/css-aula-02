@@ -1,0 +1,20 @@
+p::first-letter {
+	color: lightseagreen;
+	font-size: 40px;
+}
+
+a:hover {
+	background-color: yellow;
+}
+
+a:active {
+	color: blue;
+}
+
+a:visited {
+	color: maroon;
+}
+
+a:link {
+	color: darkgreen;
+}
